@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @kenxzu
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenxzu/kenxzu/output/github-snake.svg" />
