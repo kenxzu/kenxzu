@@ -1,4 +1,4 @@
-### Hi there, I'm Superkenxcu! 👋
+### Hi there, I'm kenxzu! 👋
 
 I'm a passionate developer who enjoys building a variety of projects, currently **working from home** 🏠 and consistently expanding my coding toolkit. 
 
